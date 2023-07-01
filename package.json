@@ -1,0 +1,22 @@
+{
+  "name": "sturdy-sniffle",
+  "version": "1.0.0",
+  "description": "node cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "e6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoey-on-github/sturdy-sniffle.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "julie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoey-on-github/sturdy-sniffle/issues"
+  },
+  "homepage": "https://github.com/zoey-on-github/sturdy-sniffle#readme"
+}
