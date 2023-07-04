@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/zoey-on-github/sturdy-sniffle/issues"
   },
-  "homepage": "https://github.com/zoey-on-github/sturdy-sniffle#readme"
+  "homepage": "https://github.com/zoey-on-github/sturdy-sniffle#readme",
+  "dependencies": {
+    "undici": "^5.22.1",
+    "yargs": "^17.7.2"
+  }
 }
